@@ -71,9 +71,8 @@ class JhumaRani Samal {
 
 <p align="center">
   <!-- Contribution streak / graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhumaprafullasamal&theme=radical" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-WarLord&theme=radical" width="60%" />
 </p>
-
 ---
 
 ## 🧩 Skill Intelligence Map
@@ -124,7 +123,7 @@ pie title Engineering Skill Matrix
 ## 🐍 Contribution Snake (Auto Updated)
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jhumaprafullasamal&theme=react-dark&hide_border=true" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
