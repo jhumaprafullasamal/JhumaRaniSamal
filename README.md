@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jhumaRaniSamal&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/jhumaRaniSamal?style=for-the-badge&label=Followers&color=ffb6c1" />
-  <img src="https://img.shields.io/github/stars/jhumaRaniSamal?style=for-the-badge&label=Stars&color=ff1493" />
+  <img src="https://img.shields.io/github/followers/JhumaRaniSamal?style=for-the-badge&label=Followers&color=ffb6c1" />
+  <img src="https://img.shields.io/github/stars/JhumaRaniSamal?style=for-the-badge&label=Stars&color=ff1493" />
 </p>
 
 ---
